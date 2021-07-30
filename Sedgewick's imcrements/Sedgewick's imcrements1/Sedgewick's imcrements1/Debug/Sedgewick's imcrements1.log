@@ -1,0 +1,9 @@
+﻿  Sedgewick's imcrements1.cpp
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(13,21): error C2065: 'a': 未宣告的識別項
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(13,33): error C2065: 'a': 未宣告的識別項
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(19,20): error C2064: 詞彙不等於使用 0 引數的函式
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(21,30): error C2064: 詞彙不等於使用 0 引數的函式
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(23,40): error C2065: 'tmp': 未宣告的識別項
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(27,15): error C2065: 'j': 未宣告的識別項
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(27,20): error C2065: 'tmp': 未宣告的識別項
+C:\Users\yowkuan\Desktop\algorithm_course\Sedgewick's imcrements\Sedgewick's imcrements1\Sedgewick's imcrements1\Sedgewick's imcrements1.cpp(28,9): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
